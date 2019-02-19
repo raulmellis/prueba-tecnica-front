@@ -12,7 +12,7 @@ Por medio de este test se evaluarán algunos de tus conocimientos que nos intere
 
 - Puedes utilizar la libreria CSS de tu gusto.
 - El componente debe tener un botón que al ser presionado refresque la data y muestre otro usuario.
-- Enviar prueba através de repositorio en GIT
+- Enviar prueba a través de repositorio en GIT
 
 ## Importante 
 
